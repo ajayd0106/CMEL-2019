@@ -8,5 +8,7 @@ This course deals with:
 Currently this repository contains only code for Digital microstructures generated using MATLAB.
 
 ## Digital Microstructure
-This Microstructure generated is a simulaton of soldification of a liquid and corresponding microstructural changes.
+This Microstructure generated is a simulaton of soldification of a liquid and corresponding microstructural changes. 
+Code used to generate the below gif can be found [here](https://github.com/ajayd0106/CMEL-2019/blob/master/codes/a8q1.m)
+
 ![Growth of Equaixed grains](https://github.com/ajayd0106/CMEL-2019/blob/master/equiaxed.gif)
