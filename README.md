@@ -9,4 +9,4 @@ Currently this repository contains only code for Digital microstructures generat
 
 ## Digital Microstructure
 This Microstructure generated is a simulaton of soldification of a liquid and corresponding microstructural changes.
-- ![Growth of Equaixed grains](https://github.com/ajayd0106/CMEL-2019/blob/master/equiaxed.gif)
+![Growth of Equaixed grains](https://github.com/ajayd0106/CMEL-2019/blob/master/equiaxed.gif)
